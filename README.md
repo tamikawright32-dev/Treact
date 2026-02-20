@@ -1,2 +1,0 @@
-# Treact
-Treact Project
